@@ -14,8 +14,8 @@ class Page1 extends StatelessWidget {
           children: [
             Row(
               Text('Ильин теперь не один'),
-              Text('Ильин теперь не один'),
-              Text('Ильин теперь не один'),
+              Text('Ильин теперь и не два'),
+              Text('Ильин теперь и не трииииииииииии'),
             ),
             ElevatedButton(
               onPressed: () {
