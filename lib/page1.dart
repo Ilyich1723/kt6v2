@@ -12,11 +12,9 @@ class Page1 extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Row(
+          
               Text('Ильин теперь не один'),
-              Text('Ильин теперь не один'),
-              Text('Ильин теперь не один'),
-            ),
+            
             ElevatedButton(
               onPressed: () {
                 Get.back(); 
